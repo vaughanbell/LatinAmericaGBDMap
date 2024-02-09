@@ -1,0 +1,343 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,558,Mental disorders,1,Number,2019,388972.3793659698,511226.9129386777,285160.70646654355
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.08579369387490858,0.10305017724752732,0.06834127213155711
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,2137.403589831373,2809.1923666010794,1566.9583497777917
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1641647.289539946,2658181.242563035,960343.3266933863
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.048182041432557284,0.0738288626912788,0.029014840213008146
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1313.9466891627794,2127.563250105384,768.6425352195852
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,558,Mental disorders,1,Number,2019,2137251.32269495,2802650.963248431,1565124.3685258436
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.06276511742699646,0.07744075092104605,0.04833750797026844
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1710.6197642191328,2243.1943679394985,1252.6990391028683
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,244997.650735594,381644.2485299243,150553.18578796837
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.05412321235065579,0.08181013684627016,0.03479954047799293
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1346.2623208261791,2097.1355040067497,827.2898972628346
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,54320.171460488884,87043.36144087798,33931.48955261144
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.05109904529672144,0.07812417567530942,0.03325082566036137
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1580.8501297629996,2533.175163648151,987.4895130129411
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,64717.80502573558,84917.955466032,47363.66262620585
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.060769612591815965,0.07405833846395224,0.04794766258227031
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1883.4467514029768,2471.3206403505164,1378.3986720872279
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,210818.7603306049,280375.57823089213,154508.61983853678
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.05782517014099727,0.07508537170854963,0.0427165043776184
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1755.1045308458913,2334.1776932939206,1286.3123675905315
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,118131.78322023449,186452.48205591383,66910.18647080392
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.0323397113627209,0.050169882591288524,0.018846956581820173
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,983.4685852511348,1552.250831617712,557.0394743356399
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,67626.58399661577,113856.11430399191,34864.52644180192
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.04636787071302206,0.07463640172582356,0.02441531384486068
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1038.7526309329176,1748.8438908431176,535.5234055510521
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,558,Mental disorders,1,Number,2019,106562.12029339759,141355.56153892164,77518.55225954292
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.0732298208951317,0.09151724721656605,0.05622167839478409
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1636.8072475477395,2171.2387757586944,1190.694477629397
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,208414.0752954815,337665.8125689777,120423.15064046941
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.04752528787315182,0.07375886398529032,0.02797443066578093
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1184.9523907676346,1919.8219281343365,684.6740079953174
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,558,Mental disorders,1,Number,2019,11715.841638751814,15445.847413677428,8574.232202371693
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.06003894387400727,0.07719753934038276,0.04401210848473748
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,2034.3961553163488,2682.092636866336,1488.8716974116555
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,317270.35688326054,422536.9091432516,230458.9524350382
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.07248768790962791,0.09194897756909774,0.0550152002065973
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1803.8621785765313,2402.362316302337,1310.290038110605
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,52751.13974699896,86461.76499207377,29477.34803025979
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.05477499870459538,0.08617891650384776,0.03207060679407461
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1267.917001321211,2078.179586706015,708.5122880886188
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,558,Mental disorders,1,Number,2019,65276.08309193629,85762.74430979053,47776.11988818525
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.06795390495125835,0.08620534083782012,0.050343062625510755
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1568.9643091859562,2061.3780500644766,1148.3383099193939
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,343382.61130667594,553543.5354748246,199243.68449784504
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.045758018281437565,0.07099923918138495,0.027531143056116397
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1010.0855931151832,1628.2896452371801,586.0901763913739
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,78599.73139651712,130018.73357597688,41754.86667112626
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.0447421472604652,0.07250859976654947,0.024478128969559993
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1256.36087927851,2078.2571077008943,667.4218864750187
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,558,Mental disorders,1,Number,2019,557247.3411283692,741532.8541244739,403323.36189715436
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.07440172881310861,0.09505867682351582,0.05465570211900593
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1639.1846661472582,2181.2742640709016,1186.405787028205
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,364342.17426899355,599949.3261931449,200830.41558680416
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.04386137243484801,0.06971050606590229,0.02518341283776763
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1298.0240083093092,2137.4100616546916,715.4886791611056
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,202763.3448754103,340647.3823863771,108982.35488772129
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.03969387848018622,0.06390935780836014,0.02188765052702393
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1140.6264403663445,1916.2803386886105,613.0701562193384
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,558,Mental disorders,1,Number,2019,288102.39621445484,383141.36611422733,208854.46352850657
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.05660382788027112,0.07387733606807557,0.040892673864314395
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1620.693379550578,2155.3263133260175,1174.891464902212
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,113970.8468495577,187488.50647588627,60505.000945794556
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.044509684798855115,0.07167490880243452,0.02396506385529852
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1161.2619900062373,1910.3418299671077,616.4923727941515
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,558,Mental disorders,1,Number,2019,147136.9034841213,195866.90616780563,106895.76390272057
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.05762013269361028,0.07420844390182732,0.0425460748561514
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1499.1947332712973,1995.7103024164612,1089.1731608941004
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,9729.496380356277,15614.19832559657,5545.348117562353
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.03153054080124046,0.04955759193402445,0.018597365744861736
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1262.4147484783266,2025.9624425881032,719.5160957345353
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,475348.4612591916,624801.5796830044,345622.3374357384
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.05743736960081026,0.07435466473446548,0.040948251984168696
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1693.5006666886063,2225.949967184843,1231.3317630594938
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,558,Mental disorders,1,Number,2019,15776.092266641195,20764.65053956314,11441.613465219929
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.051320515297685936,0.06805735405075271,0.03652389260325272
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,2046.9683909819666,2694.2402837075797,1484.5641562747505
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,3278800.518866691,5555459.379628547,1703362.0691605455
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.0499022353651014,0.08085934023814385,0.02683697969279514
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1513.3054893603346,2564.0801039082803,786.1738324110693
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,88961.84225908146,155895.15267094094,42216.1792434169
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.05222438418960743,0.0873659785938479,0.026438924699271543
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1283.6363830097455,2249.421603933242,609.1400790767569
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,558,Mental disorders,1,Number,2019,4916578.11544021,6444209.625936903,3635827.1191266244
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.07489702795479243,0.09088564347112565,0.059996945675076616
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,2269.2093063155558,2974.2760333860715,1678.0884064399495
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,558,Mental disorders,1,Number,2019,733150.237483378,966129.3694045271,539594.8136761708
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.063472547908482,0.08043713824637815,0.04698762973631109
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1534.5357876350831,2022.1777434399048,1129.410467424345
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,648547.786234459,1047887.1867569349,356506.82718994963
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.055994394619275245,0.08880034922119791,0.03250837453309233
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1357.4568172882205,2193.302691959132,746.1942408108665
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,140095.14157003185,184822.44646635838,102003.17444459016
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.08263306135181188,0.10572617285374672,0.061448156725599515
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,2021.4421850491367,2666.815464434365,1471.8106389731367
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,65313.290091290255,107815.44411112624,35479.57247873773
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.05982100965811431,0.09323299237860602,0.0355846839665435
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1384.7114171816172,2285.8024178618375,752.2047812835918
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,558,Mental disorders,1,Number,2019,83302.05291158959,109969.6458592723,60689.219168230156
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.07648674351266502,0.09626585443155691,0.05789995339835757
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1766.0923769131525,2331.473792729052,1286.6761812890552
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,7868.346440679089,12503.68105160676,4632.152648151106
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.040267951509962235,0.06181990558519713,0.02439059411177189
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1366.298234577364,2171.200451750104,804.3496855630949
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,106295.77700280953,140364.0490813401,77819.80211588282
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.060694334200831465,0.07846345030899918,0.04431337278748555
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1699.0624966023756,2243.619628078511,1243.8942636885736
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,548735.4163350448,866022.8771969767,326039.34709330864
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.04349314404501212,0.06705221842990317,0.02672854369366441
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,1216.2960384124312,1919.5775657135146,722.6804657238239
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2019,799628.1136352234,1051464.1635075747,585970.1635267118
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.06330091675908196,0.07682778326180766,0.04972164902447466
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1772.4106698152161,2330.6162834331108,1298.828483289035
+5,Prevalence,98,Chile,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,6319770.34257753,6882584.435860442,5768832.471943261
+5,Prevalence,98,Chile,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.368589410825085,0.3997471564799225,0.3364183880664224
+5,Prevalence,98,Chile,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,34727.143966245436,37819.807937274505,31699.739849821523
+5,Prevalence,98,Chile,3,Both,22,All ages,558,Mental disorders,1,Number,2019,2684262.511733591,2937435.7320876,2464837.4526212257
+5,Prevalence,98,Chile,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.1565609912858815,0.17127722420233787,0.14363807554854785
+5,Prevalence,98,Chile,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,14750.025022293665,16141.212105849272,13544.284116447843
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,3739363.669490517,4121285.5628521903,3417145.410081219
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.13868193253349592,0.1527985192935547,0.1268679845261473
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13322.047683710467,14682.702095670997,12174.096482430885
+5,Prevalence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,3117436.436041855,3449861.771574289,2801476.621934796
+5,Prevalence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.33370435092068096,0.3683891463620705,0.3009591500279321
+5,Prevalence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,31763.916295318533,35151.03604865732,28544.56562245488
+5,Prevalence,129,Honduras,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1160228.6562778347,1280584.664756259,1056364.5146499525
+5,Prevalence,129,Honduras,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12420341774210442,0.13687530268278517,0.11276459668059144
+5,Prevalence,129,Honduras,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,11821.702439659379,13048.02357158317,10763.418824760081
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,9416465.960078286,10306910.87877956,8517297.025237413
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.34922015482696434,0.3818298846602723,0.3166828732320217
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,33547.58178663358,36719.92625888768,30344.156689632164
+5,Prevalence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,15110411.841642922,16478184.360371603,13745629.869543534
+5,Prevalence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.3563988784335418,0.38764563414524594,0.3246912103612802
+5,Prevalence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,33492.8884024299,36524.61598270936,30467.789499486753
+5,Prevalence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,16313846.226295697,17843656.545278627,14825195.476747537
+5,Prevalence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.35857915292437237,0.3916483117162023,0.3261618322087354
+5,Prevalence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,34146.04481907974,37348.04703192903,31030.192523494505
+5,Prevalence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,254026.15855863589,279536.7282721341,229468.60551819197
+5,Prevalence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.3409665608539011,0.3747992781398939,0.307868406333568
+5,Prevalence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,32960.222865304466,36270.25230459035,29773.848572860366
+5,Prevalence,113,Guyana,3,Both,22,All ages,558,Mental disorders,1,Number,2019,120146.49739643645,131883.84886371493,110067.19750025118
+5,Prevalence,113,Guyana,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.16127131317090834,0.1775173285363468,0.14771652913232555
+5,Prevalence,113,Guyana,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,15589.163545762098,17112.100090584932,14281.361338345638
+5,Prevalence,132,Panama,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1364515.4819917765,1493963.9058828934,1238404.1064710931
+5,Prevalence,132,Panama,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.3477668605302807,0.3797249815391681,0.31597529727372586
+5,Prevalence,132,Panama,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,32797.25113961745,35908.65040478916,29766.06057483397
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,1675307.0920976643,1862181.7609354977,1520846.9168038291
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.14645390774972789,0.16275912403201104,0.13306209899182533
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13947.23630519333,15503.001918572629,12661.327247250229
+5,Prevalence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1052886.548263614,1162113.4986919898,957964.6208446855
+5,Prevalence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.16042032855217989,0.17711617912930322,0.14600910229577985
+5,Prevalence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,15192.170555514287,16768.213542199992,13822.535704366528
+5,Prevalence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,1,Number,2019,2186539.504865892,2414534.8600155734,1999166.263664221
+5,Prevalence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.1295543911853139,0.1427965978139099,0.1183132681072411
+5,Prevalence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,12300.175723023562,13582.7425031496,11246.124887242117
+5,Prevalence,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2019,5865630.156713011,6233666.5495935,5507077.876217512
+5,Prevalence,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.13835528163462077,0.14711845407838714,0.12994700200144493
+5,Prevalence,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13001.425659841967,13817.194413464429,12206.678855921187
+5,Prevalence,135,Brazil,3,Both,22,All ages,558,Mental disorders,1,Number,2019,36413435.57100241,39312951.29687596,33860222.19172271
+5,Prevalence,135,Brazil,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.17469647748851116,0.18834639234210915,0.16271032294833818
+5,Prevalence,135,Brazil,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,16806.34476510134,18144.594237493067,15627.928511919914
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,1,Number,2019,811879.035583062,899154.3287613646,742473.2200946358
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.1328038178342095,0.14689941901397216,0.121492748907266
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,12470.561639685766,13811.12085540691,11404.479794648985
+5,Prevalence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,5685698.197011139,6291407.994201548,5114564.047454903
+5,Prevalence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.33686661779288085,0.3711571008259778,0.30356672832320614
+5,Prevalence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,31984.369262792978,35391.73369687667,28771.50693612206
+5,Prevalence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,4982134.390490961,5491012.212441721,4492258.143882022
+5,Prevalence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.29883887457764974,0.32872712312470237,0.27006892577006536
+5,Prevalence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,28326.263707324117,31219.5231518903,25541.039010880013
+5,Prevalence,130,Mexico,3,Both,22,All ages,558,Mental disorders,1,Number,2019,14774237.084314099,15844653.618188214,13800188.420841955
+5,Prevalence,130,Mexico,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12544469664992872,0.134370098675589,0.11714674930277508
+5,Prevalence,130,Mexico,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,11825.049159786704,12681.79242593807,11045.437105110017
+5,Prevalence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,2582503.589927739,2815931.555249089,2344588.0867814096
+5,Prevalence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.3934571359397285,0.4286717504316625,0.3579574783278117
+5,Prevalence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,37263.11734451664,40631.26509741275,33830.21860764811
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,3253516.0670082364,3629127.402381544,2906279.9060926917
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.28440951392525643,0.31623905785821393,0.2546241448829297
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,27086.113121200673,30213.145817517434,24195.3089141145
+5,Prevalence,125,Colombia,3,Both,22,All ages,558,Mental disorders,1,Number,2019,5635241.370450171,6275140.364443364,5119364.742728441
+5,Prevalence,125,Colombia,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12386604757030734,0.1378350910563486,0.11257488772020366
+5,Prevalence,125,Colombia,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,11794.962495819482,13134.316773497809,10715.195884871002
+5,Prevalence,132,Panama,3,Both,22,All ages,558,Mental disorders,1,Number,2019,481582.0927243286,529502.9690588362,440791.49558234256
+5,Prevalence,132,Panama,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12274382950977848,0.1352182582087093,0.112540495461181
+5,Prevalence,132,Panama,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,11575.221423187586,12727.039073273336,10594.785894051727
+5,Prevalence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1175807.0506502076,1277051.2326678887,1076470.309613111
+5,Prevalence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.36333844209648886,0.39367256173552473,0.33257738299198764
+5,Prevalence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,34218.867109958504,37165.32095900089,31327.92446864243
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,2108744.976235709,2324302.715259002,1901514.5570797378
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.34491884759680635,0.3785483075984822,0.31144326007986606
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,32390.581670383188,35701.575000160155,29207.49699589529
+5,Prevalence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,2078871.355306536,2282038.8726924304,1885122.2806702552
+5,Prevalence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.35029976995613427,0.38349991379288006,0.3183142038713765
+5,Prevalence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,33229.282052935414,36476.77051439197,30132.34070918646
+5,Prevalence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,87925821.5939272,94447207.11734252,81982867.7778333
+5,Prevalence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.4218215301677334,0.4524319916163989,0.3932295647552356
+5,Prevalence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,40581.49549171071,43591.3914747181,37838.57027221049
+5,Prevalence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,794549.533906871,874968.6952129506,726733.477664303
+5,Prevalence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.13389163610115726,0.1471808728553984,0.12213299259994925
+5,Prevalence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,12700.309954161006,13985.753128255921,11616.3184628887
+5,Prevalence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,465321.68055223644,511941.51498193963,425711.5800121801
+5,Prevalence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.14379514573063756,0.15808108945614935,0.13150026690907665
+5,Prevalence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13542.001420551467,14898.752868976708,12389.250409369184
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,1,Number,2019,603549.3858156336,665753.2251606643,553657.625090746
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.13475189490921252,0.14846089120905973,0.1234266480089781
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,12795.890762871068,14114.67850749705,11738.132217826376
+5,Prevalence,123,Peru,3,Both,22,All ages,558,Mental disorders,1,Number,2019,4535206.275526622,5054253.031533849,4109568.635506474
+5,Prevalence,123,Peru,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.140104641675915,0.15602671588787778,0.12686333457826615
+5,Prevalence,123,Peru,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13340.64792414242,14867.462716542715,12088.603021705801
+5,Prevalence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,2449132.4922152967,2712616.8898828626,2240172.011493
+5,Prevalence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.1469088176206338,0.1624912419067991,0.13432579300749098
+5,Prevalence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,13924.709249328362,15422.76770101165,12736.650233368
+5,Prevalence,118,Suriname,3,Both,22,All ages,558,Mental disorders,1,Number,2019,87655.63585095508,95939.03341375267,80506.63997812085
+5,Prevalence,118,Suriname,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.15797465643008268,0.17293913852522855,0.1452480909651734
+5,Prevalence,118,Suriname,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,15220.954163220598,16659.323908589362,13979.567486401716
+5,Prevalence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,43070465.8256782,46369646.83617689,39762910.04046921
+5,Prevalence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.365689802063399,0.39342964399609387,0.33773661210786854
+5,Prevalence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,34472.871446221485,37113.48005521707,31825.559809375016
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1618331.674435759,1768088.4524023908,1468888.9740139213
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.36130473778342137,0.39402042843578233,0.32816078454798836
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,34310.357711970035,37485.361144822375,31142.013058082113
+5,Prevalence,123,Peru,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,9849471.831280582,10853429.658902854,8858051.749553896
+5,Prevalence,123,Peru,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.3042666639756996,0.3345989963804076,0.27443434245924225
+5,Prevalence,123,Peru,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,28972.956897007894,31926.173817100556,26056.620692718185
+5,Prevalence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,191722.8902738589,209482.24255391816,174080.01022483784
+5,Prevalence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.34551904676754225,0.3766708121654374,0.31456328876030054
+5,Prevalence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,33291.70219996507,36375.52315909766,30228.10604979896
+6,Incidence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,962090.4881991848,1077090.1342601248,847849.5295272307
+6,Incidence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.01801027839541063,0.020307679714579162,0.015572820631858877
+6,Incidence,129,Honduras,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9802.849989936652,10974.59453274083,8638.835799687362
+6,Incidence,98,Chile,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1948338.1962594052,2167569.4773674277,1741010.1600262744
+6,Incidence,98,Chile,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.02072383301997975,0.023530829999470763,0.018182788518033954
+6,Incidence,98,Chile,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10706.120217786263,11910.796313316285,9566.85246402001
+6,Incidence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1509738.2054580813,1695187.6917527174,1331438.2611615483
+6,Incidence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.014941283035132168,0.016924005415304807,0.013021733142068236
+6,Incidence,122,Ecuador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,8583.719182375087,9638.104841500593,7569.982730226297
+6,Incidence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,57287.76824384315,63496.142750483574,51012.38674977591
+6,Incidence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.017883283169504282,0.020015068678795527,0.015760711712329616
+6,Incidence,118,Suriname,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9947.72881501196,11025.78138831551,8858.040820045695
+6,Incidence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,405591.53924643435,460509.2929074752,357222.8300249336
+6,Incidence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.009490715285665675,0.01085981768895751,0.008212018403732846
+6,Incidence,136,Paraguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5852.307497201157,6644.719444642394,5154.3921508089325
+6,Incidence,98,Chile,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1126177.1102980522,1271712.661198989,990043.1087533599
+6,Incidence,98,Chile,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.011979266920797276,0.013766666555482853,0.01039602288427443
+6,Incidence,98,Chile,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,6188.344278482133,6988.062267329553,5440.287812174613
+6,Incidence,129,Honduras,3,Both,22,All ages,558,Mental disorders,1,Number,2019,429225.5746517966,486401.85555949825,376987.44375390915
+6,Incidence,129,Honduras,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.008036129178611873,0.00921105470927761,0.00697305408460359
+6,Incidence,129,Honduras,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4373.4284578903325,4956.004121609646,3841.168169250365
+6,Incidence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,1,Number,2019,242906.34683134072,276064.6514841758,213597.89199278754
+6,Incidence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.010071174170147277,0.01154952299311165,0.008760945819368555
+6,Incidence,126,Costa Rica,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5149.87365194896,5852.865079313756,4528.503147137899
+6,Incidence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,644743.0203513264,719586.224213735,569277.6323594097
+6,Incidence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.020074910031433895,0.022673344784130113,0.01736850326631298
+6,Incidence,131,Nicaragua,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9903.331930814218,11052.932728681162,8744.174308348775
+6,Incidence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,903253.960553684,1018637.6751463641,798736.0834344851
+6,Incidence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.008939778855624105,0.01021491727031442,0.00774111930987596
+6,Incidence,122,Ecuador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5135.511785904927,5791.533737725619,4541.268291578717
+6,Incidence,123,Peru,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,3048031.8052235665,3413154.2232260527,2690653.9648478925
+6,Incidence,123,Peru,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.014704714154646702,0.01662713949245629,0.012808365446843753
+6,Incidence,123,Peru,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,8966.013165598328,10040.048023520445,7914.7595610886565
+6,Incidence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,26032431.052374322,28766957.362104762,23349166.456283506
+6,Incidence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.019091417790700702,0.021419302212766663,0.01693026900863101
+6,Incidence,135,Brazil,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,12015.070934101612,13277.170793944773,10776.630529049458
+6,Incidence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,623759.3652255347,693464.1727379818,553972.8642917386
+6,Incidence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.01862084609845723,0.020971958892488287,0.016259254438981505
+6,Incidence,127,El Salvador,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9970.350415061144,11084.532253857578,8854.862764948897
+6,Incidence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,4785400.83193239,5298520.883017834,4270708.058670157
+6,Incidence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.017572181191740192,0.019845456988430567,0.01540566664300263
+6,Incidence,125,Colombia,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10016.185577441714,11090.182476694728,8938.896858393928
+6,Incidence,132,Panama,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,410894.5188471344,456059.84746903967,366211.32878381485
+6,Incidence,132,Panama,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.01877920584591334,0.021151017353906402,0.01641209360840353
+6,Incidence,132,Panama,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9876.187485136179,10961.773281094856,8802.190285715042
+6,Incidence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1750300.5191573924,1960052.5254911133,1535384.0880878854
+6,Incidence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.01896697125792156,0.021492832256191547,0.01648694696875381
+6,Incidence,128,Guatemala,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9846.153662362362,11026.094171289848,8637.161159808811
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,1021430.1204202605,1149919.8215017328,895661.6046959148
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.014896363247227389,0.01686365149184498,0.012964158754008987
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,8503.591565953302,9573.291701659813,7456.5457933692915
+6,Incidence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,476722.09756982257,529201.1280411786,424383.32386276085
+6,Incidence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.019763369527176715,0.022246316627188407,0.017294254216261813
+6,Incidence,126,Costa Rica,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10107.016970130111,11219.628393543906,8997.379139726005
+6,Incidence,118,Suriname,3,Both,22,All ages,558,Mental disorders,1,Number,2019,42406.89165161029,48120.589606486916,37159.87427961276
+6,Incidence,118,Suriname,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.013239033098814232,0.015179415049980412,0.011471842567416464
+6,Incidence,118,Suriname,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,7363.740480205411,8355.8949929117,6452.622670865754
+6,Incidence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,363680.23185728205,403372.8200167588,327042.0501945012
+6,Incidence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.020619841441604336,0.02327346965018018,0.018260851887392085
+6,Incidence,99,Uruguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10583.986137488666,11739.13774057555,9517.72524989157
+6,Incidence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,76480.08795273867,85112.9260259876,67860.63947119532
+6,Incidence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.017955323520923962,0.020113563003267106,0.015688489375397203
+6,Incidence,113,Guyana,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9923.390401931727,11043.512315630984,8805.005805086745
+6,Incidence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,1,Number,2019,313419.56535582413,354179.72785841534,276114.0696250027
+6,Incidence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.009759486746799833,0.011146371490279281,0.008466134636883378
+6,Incidence,131,Nicaragua,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4814.162994178525,5440.24409327616,4241.14600073425
+6,Incidence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,1,Number,2019,915252.823022218,1040321.0294709596,794353.6779993274
+6,Incidence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.009919081872019174,0.011355388554946203,0.00851031129190912
+6,Incidence,128,Guatemala,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5148.670092222797,5852.229718408131,4468.563135437641
+6,Incidence,130,Mexico,3,Both,22,All ages,558,Mental disorders,1,Number,2019,6802920.100490298,7556541.627639174,6106878.730315903
+6,Incidence,130,Mexico,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.01050816460257355,0.011804824254823876,0.009194987343650058
+6,Incidence,130,Mexico,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5444.942040615262,6048.127948324197,4887.842315425653
+6,Incidence,132,Panama,3,Both,22,All ages,558,Mental disorders,1,Number,2019,186469.46300666465,209092.46692220026,164781.08902916024
+6,Incidence,132,Panama,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.008522789480181937,0.009704794407087445,0.0073958638563573036
+6,Incidence,132,Panama,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4481.946807354762,5025.7093008863985,3960.6489125798007
+6,Incidence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,4775506.054542826,5318232.994620863,4249332.172748101
+6,Incidence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.02038243302684255,0.02302519907188061,0.01780101763179791
+6,Incidence,97,Argentina,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10585.117932334308,11788.09592046104,9418.830521513613
+6,Incidence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,762311.4368436052,850670.6364602293,676976.7030004923
+6,Incidence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.017836280619782884,0.020104572224150505,0.015573023117604202
+6,Incidence,136,Paraguay,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10999.44280230998,12274.38361425052,9768.14220967538
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,1421627.027160443,1611529.5679019415,1251634.8169051923
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.009511580315484882,0.010880738080214138,0.008294834822751812
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5064.760937484152,5741.317412495504,4459.138021115514
+6,Incidence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,1,Number,2019,327011.6184445969,372968.689672778,286044.91424465633
+6,Incidence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.00976317685757929,0.011212192441043631,0.008533233261725231
+6,Incidence,127,El Salvador,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,5227.0484540300595,5961.639595646371,4572.224784848149
+6,Incidence,135,Brazil,3,Both,22,All ages,558,Mental disorders,1,Number,2019,14064007.147238025,15350471.58875506,12820213.693025738
+6,Incidence,135,Brazil,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.010314919966114047,0.011442238720409649,0.009213094350421586
+6,Incidence,135,Brazil,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,6491.135735721651,7084.893632858837,5917.072308849772
+6,Incidence,113,Guyana,3,Both,22,All ages,558,Mental disorders,1,Number,2019,58587.013410446714,67308.77298967888,51093.18416513361
+6,Incidence,113,Guyana,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.013755328748258272,0.015791799110019156,0.01177469999419322
+6,Incidence,113,Guyana,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,7601.74082062171,8733.40041481559,6629.406776594339
+6,Incidence,123,Peru,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1205180.2063293157,1347079.6614868345,1077387.420265262
+6,Incidence,123,Peru,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.005814672575672709,0.00658295413660575,0.005111419944411141
+6,Incidence,123,Peru,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,3545.1275732585677,3962.5354168884096,3169.2155501769207
+6,Incidence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,1,Number,2019,167455.20932911985,187930.75826052885,147776.0822532752
+6,Incidence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.009495481791825165,0.010774685377225132,0.008257564155929785
+6,Incidence,99,Uruguay,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4873.357028889002,5469.245688937337,4300.64619688988
+6,Incidence,125,Colombia,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1725004.6499273372,1897735.5432389767,1557704.3109311212
+6,Incidence,125,Colombia,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.006334971683049403,0.007082801527926222,0.0055698627647333965
+6,Incidence,125,Colombia,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,3610.5578827019763,3972.0959738942315,3260.386329386485
+6,Incidence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,13213865.269982306,14635093.943065938,11795929.567712396
+6,Incidence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.020409864789607695,0.022835593844603434,0.01790027284086491
+6,Incidence,130,Mexico,3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,10576.153984575994,11713.681345928246,9441.262261296411
+6,Incidence,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2019,1915435.0591683069,2084166.977164011,1748321.5002488159
+6,Incidence,97,Argentina,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.008175918603215248,0.009086956799392434,0.00728816646975718
+6,Incidence,97,Argentina,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4245.645542368654,4619.647214764078,3875.2310336126284
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,1,Number,2019,598872.1215167206,672507.7532587074,526073.5334135784
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.008734687611061689,0.009912748482075164,0.007620511741106873
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,22,All ages,558,Mental disorders,3,Rate,2019,4985.719355445331,5598.7493851229065,4379.657866331925
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,1,Number,2019,2800257.024127699,3101124.889940068,2494549.4435710763
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,2,Percent,2019,0.018734778372557524,0.02108125057675238,0.016487996128014045
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,542,Neurological disorders,3,Rate,2019,9976.33846273025,11048.225663098408,8887.20904783117
