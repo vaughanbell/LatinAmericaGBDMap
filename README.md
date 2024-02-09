@@ -1,4 +1,4 @@
-# Map the prevalence of neurological and mental disorders from the Global Burden of Disease Study 2019 onto a map of Latin America
+# Map the prevalence of neurological and mental disorders from the Global Burden of Disease Study 2019 in Latin America
 
 <p align="center">
 	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
